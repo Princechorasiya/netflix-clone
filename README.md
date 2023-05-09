@@ -49,7 +49,7 @@ U can modify the user,movie and lists as u need with the admin site.
 ![Screenshot (77)](https://user-images.githubusercontent.com/115965811/237016159-59267baf-ac6b-4a51-a1fd-8388f590ee75.png)
 
 # VIDEO LINK :
-
+https://drive.google.com/file/d/1-q99egIlWREtewue5k6YVYuWEOYPRz4f/view?usp=share_link
 # Client 
 The client part of the application uses react and has a server to process requests.
 # LINK 
