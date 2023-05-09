@@ -75,7 +75,7 @@ we have home page movie page series page data for which is fetched from database
 
 ![Screenshot (82)](https://user-images.githubusercontent.com/115965811/237024814-901436fd-9662-4137-b252-7d46c1e4b88d.png)
 
-
+## /api/ in code is wewritten as serverlink/api/
 # Use on local host:
 clone the repo
 naviagate to each folder,
