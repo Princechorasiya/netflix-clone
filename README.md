@@ -23,7 +23,8 @@ SO we first start the server before running client and admin by clicking server 
 the server has api related to  users,movies and movie lists;
 ![Screenshot (73)](https://user-images.githubusercontent.com/115965811/237011844-cbb78852-1df7-485d-a143-b6321966c242.png)
 ![Screenshot (72)](https://user-images.githubusercontent.com/115965811/237011874-ded408df-e254-4eba-a16b-b764b7b14d89.png)
-![Screenshot (73)](https://user-images.githubusercontent.com/115965811/237012522-82e31641-1614-486b-98c6-3c6753380a47.png)
+![Screenshot (75)](https://user-images.githubusercontent.com/115965811/237023259-f60662e7-3c1b-4d74-824f-8d8c17d41aa9.png)
+
 
 
 
@@ -50,11 +51,34 @@ U can modify the user,movie and lists as u need with the admin site.
 # VIDEO LINK :
 
 # Client 
+The client part of the application uses react and has a server to process requests.
+# LINK 
+https://netflixclone-client-prince.onrender.com
+
+# use
+u can start by signing up then login with ur id;
+we have home page movie page series page data for which is fetched from database,then we have watch page for viewing the movie we want to see.
+
+# preview 
 
 
 
+![Screenshot (78)](https://user-images.githubusercontent.com/115965811/237024758-761a7c62-e8c8-406c-a660-c4b0d0936630.png)
 
 
+![Screenshot (79)](https://user-images.githubusercontent.com/115965811/237024767-0ee36e81-8277-4de0-aefe-02567948cd77.png)
+
+![Screenshot (80)](https://user-images.githubusercontent.com/115965811/237024780-ffb98191-c70a-46fe-8b23-99321bcdcb10.png)
+
+![Screenshot (81)](https://user-images.githubusercontent.com/115965811/237024802-ba89b394-f5e7-47af-bdae-aa3f5fa69ff4.png)
 
 
+![Screenshot (82)](https://user-images.githubusercontent.com/115965811/237024814-901436fd-9662-4137-b252-7d46c1e4b88d.png)
 
+
+# Use on local host:
+clone the repo
+naviagate to each folder,
+npm install 
+npm start
+add mongo url and cryptos secretkey in .env for server.
